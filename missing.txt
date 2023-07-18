@@ -1,5 +1,4 @@
 d. Pesquisar receita
-f. Realizar preparativos
 g. Realizar receita
 h. Adicionar foto na galeria
 i. Visualizar galeria
