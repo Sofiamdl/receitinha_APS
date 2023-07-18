@@ -1,6 +1,7 @@
 d. Pesquisar receita
-g. Realizar receita
 h. Adicionar foto na galeria
 i. Visualizar galeria
 j. Desbloquear Conquista
 k. Ver conquistas
+
+(12 13) 14 15 15  usuario [12,13] --> api.receitinha/conquistas?ids=12,13 14 15 15  where id != 12,13 14 15 
